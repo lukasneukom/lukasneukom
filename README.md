@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello internet 👋
 
-<!--
-**lukasneukom/lukasneukom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👷‍♂️ I'm currently working:
+- as a civil engineer
+- on my personal website
+- on the website of a small swiss charity for children in need
 
-Here are some ideas to get you started:
+👨‍🎓 I'm currently learning:
+- Front end development
+- iOS and macOS development
+- Chinese
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❓Ask me about:
+- civil engineering, road construction and public work in Switzerland
+- trading card games and board games
+
+I'm here on GitHub not only for computer related stuff. Let's see, if it helps me to collaborate in different topics as well.
